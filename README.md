@@ -5,7 +5,7 @@ This repository contains Python code for analyzing the Spotify Songs dataset usi
 
 ## Table of Contents
 ### Data Loading and Exploration
-Load the dataset from a CSV file using pandas.
+Load the dataset from a linked file using pandas.
 Display basic information about the dataset and explore unique values in selected columns.
 
 ### Data Preprocessing
