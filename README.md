@@ -29,7 +29,4 @@ Evaluate the classifier's accuracy.
 Calculate and visualize feature importances.
 
 ### Conclusion
-Summarize the key findings and feature importance results.
-Discuss the significance of features such as loudness, duration_ms, tempo, and energy in predicting song popularity.
-
 The code provides a comprehensive analysis of the Spotify Songs dataset, showcasing the application of decision tree and random forest classifiers for classification tasks. The results and visualizations offer insights into the importance of different features in predicting song modality and popularity.
